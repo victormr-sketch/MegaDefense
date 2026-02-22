@@ -1,0 +1,19 @@
+{
+  "type": "ItemTurret",
+  "name": "mega-canon",
+  "health": 1000,
+  "size": 2,
+  "range": 150,
+  "reload": 20,
+  "ammoTypes": {
+    "copper": {
+      "damage": 20,
+      "speed": 4
+    }
+  },
+  "requirements": [
+    { "item": "copper", "amount": 100 }
+  ],
+  "category": "turret",
+  "research": "duo"
+}
