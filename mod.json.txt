@@ -1,0 +1,7 @@
+{
+  "name": "megadefense",
+  "displayName": "Mega Defense",
+  "author": "Toi",
+  "description": "Ajoute une tourelle ultra puissante.",
+  "version": "1.0"
+}
